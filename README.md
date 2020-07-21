@@ -61,9 +61,9 @@ To deploy this app we just need to link the Dashboard UI address.
 
 ## Authors
 
+* **Jashmin Mishra** - [Jashmin](https://github.com/jashminmishra1 )
 * **Gurudeep Singh** - [Gurudeep](https://github.com/gudii16 )
 * **Aman Kumar** - [Aman](https://github.com/bullet-ant)
-* **Jashmin Mishra** - [Jashmin](https://github.com/jashminmishra1 )
 
 ## License
 
