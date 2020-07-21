@@ -4,7 +4,8 @@ This is a web application that shows the estimated wind energy that could be gen
 
 ## Getting Started
 
-A live demo of the project could be viewed from the link below:
+A live demo of the project could be viewed from the link:
+
 [**My P-Wind App**](https://immense-reef-43943.herokuapp.com/)
 
 ### Prerequisites
@@ -36,11 +37,14 @@ To get the application up and running follow the below steps:
 On the landing page of the app(see above), you can click on refresh to fetch the current wind speed and directions and pass it onto the model to make predictions for those parameters. 
 
 If we click on the sidebar to go to Power vs Wind group we'll see a time series like this:
+
 ![alt text](https://i.ibb.co/N6cRtHw/3-Current-Pred.png)
 
 Here we fetch data(speed and direction) for next 4 days at an interval of 3-3 hours and plot it in the time series. 
 
+
 To see the optimal power generation time simply click on REFRESH and it notifies us with the optimal time to produce power.
+
 ![alt text](https://i.ibb.co/YfJS0fv/4-Current-Pred.png)
 
 
@@ -51,7 +55,7 @@ To deploy this app we just need to link the Dashboard UI address.
 ## Built With
 
 * [Node-RED](https://nodered.org/docs/) - Developing the dashboard
-* [HTML/CSS/JavaScript] - Creating the webpage
+* HTML/CSS/JavaScript - Creating the webpage
 * [IBM Watson Studio](https://cloud.ibm.com/catalog/services/watson-studio) - Used to create notebook
 * [Open Weather API](https://openweathermap.org/api) - For fetching current wind speed and directions
 
